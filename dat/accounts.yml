@@ -1,0 +1,6 @@
+---
+tinywxpdx:
+  state: OR
+  city: Portland
+  oauth_token: a
+  oauth_token_secret: b

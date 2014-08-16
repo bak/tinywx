@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'tinywx'
+
+TinyWx::CommandDispatcher.new(ARGF.argv)

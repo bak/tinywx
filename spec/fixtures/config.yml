@@ -1,0 +1,11 @@
+---
+tinywxpdx:
+  state: OR
+  city: Portland
+  oauth_token: 12345
+  oauth_token_secret: 12345
+tinywxsf:
+  state: CA
+  city: San Francisco
+  oauth_token: 12345
+  oauth_token_secret: 12345
